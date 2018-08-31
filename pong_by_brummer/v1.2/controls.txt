@@ -1,0 +1,12 @@
+player one:
+up: 	W
+down: 	S
+
+player two:
+up: 	O
+down: 	L
+
+menu:
+select mod: Space
+go to game: Enter
+back to menu: Backspace
